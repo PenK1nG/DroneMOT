@@ -1,0 +1,5 @@
+exp/
+__pycache__/
+src/mydata/
+*.egg
+build/

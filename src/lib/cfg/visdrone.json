@@ -1,0 +1,21 @@
+{
+    "root":"your_path_to_visdrone_dataset",
+    "train":
+    {
+        "visdrone":"./data/visdrone.train"
+
+    },
+    "val":
+    {
+        "visdrone":"./data/visdrone.val"
+
+    },
+    "test_emb":
+    {
+        "visdrone":"./data/visdrone.train"
+    },
+    "test":
+    {
+        "visdrone":"./data/visdrone.val"
+    }
+}
